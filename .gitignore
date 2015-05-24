@@ -1,0 +1,6 @@
+deps/*
+ebin/*
+.eunit/*
+*.plt
+.rebar/*
+erl_crash.dump
