@@ -43,7 +43,7 @@ run(ItemList, Opts) ->
 stop(_) ->
   ok.
 
-
+%% TODO
 check_opts(_) ->
   ok.
 
